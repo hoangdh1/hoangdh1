@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hoang-do-dhh/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoangdh1) 
 
 
-
 ![Hoang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoangdh1&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/hoangdh1/eCommerce">
